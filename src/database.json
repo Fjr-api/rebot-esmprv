@@ -1,0 +1,218 @@
+{
+  "users": {
+    "6289699872867@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity",
+      "moderator": {
+        "status": false,
+        "expired": 0
+      },
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banspam": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": false,
+      "jid": "6289699872867@s.whatsapp.net"
+    },
+    "6289692509996@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity",
+      "moderator": {
+        "status": false,
+        "expired": 0
+      },
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banspam": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": false,
+      "jid": "6289692509996@s.whatsapp.net",
+      "lid": "105974090227874@lid"
+    },
+    "undefined": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 15,
+      "moderator": {
+        "status": false,
+        "expired": 0
+      },
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banspam": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": false,
+      "lid": "221036851261537@lid"
+    },
+    "6285256247595@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 15,
+      "moderator": {
+        "status": false,
+        "expired": 0
+      },
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banspam": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": false,
+      "jid": "6285256247595@s.whatsapp.net",
+      "lid": "196018146640088@lid"
+    },
+    "62895401223315@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 15,
+      "moderator": {
+        "status": false,
+        "expired": 0
+      },
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banspam": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": false,
+      "jid": "62895401223315@s.whatsapp.net",
+      "lid": "128290689970412@lid"
+    }
+  },
+  "chats": {
+    "6289699872867@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "mentionsTag": {
+        "antiMention": false,
+        "autoKick": false
+      },
+      "antiurl": {
+        "antiurls": false,
+        "autoKickurl": false,
+        "setMessageUrl": true
+      }
+    },
+    "6289692509996-1632716615@g.us": {
+      "mute": false,
+      "antilink": false,
+      "mentionsTag": {
+        "antiMention": false,
+        "autoKick": false
+      },
+      "antiurl": {
+        "antiurls": false,
+        "autoKickurl": false,
+        "setMessageUrl": true
+      }
+    },
+    "120363144131520686@g.us": {
+      "mute": false,
+      "antilink": false,
+      "mentionsTag": {
+        "antiMention": false,
+        "autoKick": false
+      },
+      "antiurl": {
+        "antiurls": false,
+        "autoKickurl": false,
+        "setMessageUrl": true
+      }
+    },
+    "6289692509996@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "mentionsTag": {
+        "antiMention": false,
+        "autoKick": false
+      },
+      "antiurl": {
+        "antiurls": false,
+        "autoKickurl": false,
+        "setMessageUrl": true
+      }
+    },
+    "6285256247595@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "mentionsTag": {
+        "antiMention": false,
+        "autoKick": false
+      },
+      "antiurl": {
+        "antiurls": false,
+        "autoKickurl": false,
+        "setMessageUrl": true
+      }
+    },
+    "120363420939708738@g.us": {
+      "mute": false,
+      "antilink": false,
+      "mentionsTag": {
+        "antiMention": false,
+        "autoKick": false
+      },
+      "antiurl": {
+        "antiurls": false,
+        "autoKickurl": false,
+        "setMessageUrl": true
+      }
+    },
+    "120363405607598156@g.us": {
+      "mute": false,
+      "antilink": false,
+      "mentionsTag": {
+        "antiMention": false,
+        "autoKick": false
+      },
+      "antiurl": {
+        "antiurls": false,
+        "autoKickurl": false,
+        "setMessageUrl": true
+      }
+    }
+  },
+  "database": {},
+  "game": {},
+  "settings": {
+    "6289699872867@s.whatsapp.net": {
+      "status": 0,
+      "hit": 140,
+      "resetlimit": {
+        "dateYesterday": 10,
+        "boolLimit": false
+      },
+      "earthquakeData": null,
+      "autobio": true,
+      "templateImage": false,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateLoc": true,
+      "templateMsg": false
+    }
+  },
+  "others": {},
+  "sticker": {},
+  "anonymous": {},
+  "anonconfess": {}
+}
